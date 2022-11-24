@@ -1,7 +1,7 @@
 # SQL Data Analysis Exercises – Stack Exchange
 This SQL exercise is a part of a section dedicated for data analysts, providing data analysis tasks that require both business understanding and technical skills.
 
- **About this Exercise**
+## **About this Exercise**
 Stack Exchange Is a network of sites, allowing different communities learn and share their knowledge.
 Movies & TV Stack Exchange – is one of these sites, focused entirely on questions and answers regarding movies and series. The following database is built according to its structure, and simulates some of the data it has.
 
